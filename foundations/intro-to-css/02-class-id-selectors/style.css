@@ -1,21 +1,28 @@
 /* Add CSS Styling */
 
 .odd {
-    background-color: pink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 199, 206);
+    font-family: Verdana, "DejaVu sans", sans-serif;
 }
 
+/* use quotation marks ("...") for fonts with 
+spaces in their names */
+
 #second {
-    color: blue;
+    color: #0000FF;
     font-size: 36px;
 }
+
+/* Hex is just the code, don't need to write hex(...) */
 
 .odd.third {
     font-size: 24px;
 }
 
 #fourth {
-    background-color: lightgreen;
+    background-color: hsl(120, 73, 75);
     font-size: 24px;
     font-weight: bold;
 }
+
+/* for hsl, just write the value, do not include % */

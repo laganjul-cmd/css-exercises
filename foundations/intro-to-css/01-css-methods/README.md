@@ -24,6 +24,6 @@ The properties you need to add to each element are:
 - Does the `button` element have CSS added via the inline method?
 
 ### Notes
-- Added <link> to `styles.css` in <head> for External CSS
-- Better to add Internal CSS as a separate block within <head> instead of under <p>
-- Inline CSS is just adding styles within the tag 
+- Added `<link>` to `styles.css` in `<head>` for External CSS
+- Better to add Internal CSS as a separate block within `<head>` instead of under `<p>`
+- Inline CSS is just adding styles within the tag itself

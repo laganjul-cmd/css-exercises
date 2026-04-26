@@ -17,3 +17,8 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+### Notes
+- use grouping selector when applying a style to both tags
+- it's also better to write styles that apply to both tags before the styles that only apply to specific tags
+- use words for classes, don't be lazy

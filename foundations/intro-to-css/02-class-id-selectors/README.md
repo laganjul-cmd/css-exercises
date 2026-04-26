@@ -25,3 +25,4 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ### Notes
 - do not use numbers as the name of your selectors
+- this  exercise also teaches you to how to use rgb, hex, and hsl along with the popup when hovering on the color value when using VS Code
