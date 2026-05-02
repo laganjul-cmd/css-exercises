@@ -16,3 +16,15 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+### Thoughts:
+
+My solution:
+- rule order
+- specificity 
+- both rule order and specificity
+
+TOP solution:
+- moved all broader styles higher, specific styles lower, to take advantage of rule order
+- changed type selector of the buttons to id selector for specificity
+- added a class for specificity
